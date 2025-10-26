@@ -1,3 +1,4 @@
+Student:Aruzhan Sabyr
 
 # Analytical Report
 
